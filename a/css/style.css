@@ -21,6 +21,8 @@ body {
   flex: 40%;
   background-color: #014344;
   flex-direction: column;
+  box-shadow: 10px 0px 56px -3px #014344;
+  position: relative;
 }
 
 .display {
@@ -126,7 +128,7 @@ h1.main-header {
   border: 2px solid #014344;
   width: 60%;
   position: relative;
-  top: -20px;
+  top: -21px;
 }
 
 .texts p {
